@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.streamlit/
+.ipynb_checkpoints/
+dataset/
+models/*.h5
+models/*.ckpt
+.DS_Store

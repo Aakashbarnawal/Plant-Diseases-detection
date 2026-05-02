@@ -1,0 +1,10 @@
+tensorflow>=2.12
+streamlit
+pandas
+google-genai
+python-dotenv
+opencv-python
+numpy
+matplotlib
+scikit-learn
+pillow
